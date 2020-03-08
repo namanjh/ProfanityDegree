@@ -1,7 +1,7 @@
 # ProfanityDegree
 A simple python program to check degree of profanity in a sentence.
 
-The data is taken from a file facebook_comments.txt.
+The data is taken from a file facebook_comments.txt. The file has to be provided.
 The data is read line by line and then converted into a dataframe.
 
 The list of the profane word is downloaded from 'https://raw.githubusercontent.com/RobertJGabriel/Google-profanity-words/master/list.txt'
